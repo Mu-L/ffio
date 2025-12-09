@@ -18,7 +18,7 @@ that specifically deals with raw RGB data.
 ```
 [Video]        [FFIO]      [Raw-RGB-Image]     [FFIO]          [Video]
    ● ------> (decoding)  ------>  □
-                                  ◘  ----->  (may be AI processing, etc.)
+                                  ◘  ----->  (may be for AI processing, etc.)
                                   □  ----->  (encoding) ------->  ●
 ```
 
@@ -127,3 +127,4 @@ Here is [Documentation](https://github.com/dongrixinyu/ffio/wiki/Documentation).
 - [FFmpeg Github](https://github.com/FFmpeg/FFmpeg)
 - [FFmpeg Principle](https://github.com/lokenetwork/FFmpeg-Principle)
 - [ffmepgRtmp](https://github.com/hurtnotbad/ffmepgRtmp)
+
